@@ -3,7 +3,7 @@
 
 def main_v1():
     
-    archivo = open("input01.txt")
+    archivo = open("inputs/input01.txt")
 
     top_calories=[]
     
@@ -31,7 +31,7 @@ def main_v1():
 
 def main_v2():
     
-    archivo = open("input01.txt")
+    archivo = open("inputs/input01.txt")
 
     top_calories=[]
     
