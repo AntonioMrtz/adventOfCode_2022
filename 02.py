@@ -98,7 +98,7 @@ def main_v2():
         enemy,you = line.split()[0],line.split()[1]
 
         total_points+=translate_outcome[you]+check_outcome_p2(enemy,you)
-        print(total_points)
+        #print(total_points)
 
     return total_points
 
