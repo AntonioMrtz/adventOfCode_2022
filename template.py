@@ -1,7 +1,7 @@
 import logging
 
 
-logging.basicConfig(level=logging.DEBUG,format=" %(levelname)s - %(funcName)s: %(message)s")
+logging.basicConfig(level=logging.DEBUG,format="%(levelname)s - %(funcName)s: %(message)s")
 
 def main_v1():
     pass
